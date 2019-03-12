@@ -1,10 +1,11 @@
 #  Pomodoro Timer
 ## 
-Requirements
+
   - `expo`
   - `react`
   - `react-native`
   - `prop-types`
+
 - 
 Timer displays minutes and seconds in text
 - 
